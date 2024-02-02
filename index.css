@@ -1,0 +1,38 @@
+h1{font-style: oblique;
+    text-align: center;
+    font-size: 55px;
+    text-decoration: underline;
+    border-radius: 25px;
+    margin: 50px;
+    }
+
+h3{font-style: oblique;
+    text-align: center;
+    font-size: 45px;
+    text-decoration: underline;
+    border-radius: 25px;
+    margin: 40px;
+    }
+
+h4{font-style: oblique;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+    border-radius: 25px;
+    margin: 40px;
+    outline: auto;
+    }
+
+div{
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 25px;
+    outline: auto;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+
+
+body{background-image: url(strand.jpeg);
+background-size: cover;}
+
+a{color: black;}
